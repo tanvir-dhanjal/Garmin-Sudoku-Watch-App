@@ -1,0 +1,8 @@
+<strings>
+    <string id="AppName">Sudoku</string>
+
+    <string id="pickerChooserTitle">Sudoku Level</string>
+	<string id="menu_label_1">Easy</string>
+    <string id="menu_label_2">Medium</string>
+    <string id="menu_label_3">Hard</string>
+</strings>

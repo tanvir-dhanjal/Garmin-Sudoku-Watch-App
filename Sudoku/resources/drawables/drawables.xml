@@ -1,0 +1,5 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="images/icon.png" />
+    <bitmap id= "upButton" filename ="images/up.png"/>
+    <bitmap id= "downButton" filename ="images/down.png"/>
+</drawables>
