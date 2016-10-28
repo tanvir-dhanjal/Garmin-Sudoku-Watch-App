@@ -1,6 +1,5 @@
 # Garmin_Sudoku_Watch_App
 
-Description
 Bringing world famous sudoku game to garmin vivoactive watch.The objective is simple , fill 9*9 grid with digits so that each column , each row and the nine 3*3 sub grids contains all of the digits from 1 to 9.
 Sudoku features:
 
